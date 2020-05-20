@@ -1,2 +1,0 @@
-name : mo
-family : Bo
